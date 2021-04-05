@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Strosityy
-- 👀 I’m interested in Hacking and Mixed Martial Arts!
+- 👀 I’m interested in Hacking and Random new shit!
 - 🌱 I’m currently looking at some more ethical hacking!
 - 💞️ I’m looking to collaborate on some discord tools!
 - 📫 How to reach me is mainly on discord, or youtube that is AngelSec
