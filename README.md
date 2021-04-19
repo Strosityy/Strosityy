@@ -1,4 +1,4 @@
-#Funny AngelSec/Strosity
+# Funny AngelSec/Strosity
 
 ***I am a discord funny dev.
 Mainly making discord tools.
