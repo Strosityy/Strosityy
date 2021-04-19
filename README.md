@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Strosityy
-- 👀 I’m interested in Hacking and Random new shit!
-- 🌱 I’m currently looking at some more ethical hacking!
-- 💞️ I’m looking to collaborate on some discord tools!
-- 📫 How to reach me is mainly on discord, or youtube that is AngelSec
+#Funny AngelSec/Strosity
 
-<!---
-Strosityy/Strosityy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+***I am a discord funny dev.
+Mainly making discord tools.
+Selling loads of tools***
+
+```Check out my videos on AngelSec```
+
